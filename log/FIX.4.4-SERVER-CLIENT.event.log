@@ -1,0 +1,639 @@
+20250116-15:31:27: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-15:31:27: Created session: FIX.4.4:SERVER->CLIENT
+20250116-15:35:38: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-15:35:38: Created session: FIX.4.4:SERVER->CLIENT
+20250116-15:37:59: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-15:37:59: Created session: FIX.4.4:SERVER->CLIENT
+20250116-15:41:18: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-15:41:18: Created session: FIX.4.4:SERVER->CLIENT
+20250116-15:42:39: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-15:42:39: Created session: FIX.4.4:SERVER->CLIENT
+20250116-16:08:53: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-16:08:53: Created session: FIX.4.4:SERVER->CLIENT
+20250116-16:11:03: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-16:11:03: Created session: FIX.4.4:SERVER->CLIENT
+20250116-16:13:31: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-16:13:31: Created session: FIX.4.4:SERVER->CLIENT
+20250116-16:17:18: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-16:17:18: Created session: FIX.4.4:SERVER->CLIENT
+20250116-16:18:44: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-16:18:44: Created session: FIX.4.4:SERVER->CLIENT
+20250116-16:21:59: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-16:21:59: Created session: FIX.4.4:SERVER->CLIENT
+20250116-16:22:49: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-16:22:49: Created session: FIX.4.4:SERVER->CLIENT
+20250116-17:16:16: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-17:16:16: Created session: FIX.4.4:SERVER->CLIENT
+20250116-17:17:02: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-17:17:02: Created session: FIX.4.4:SERVER->CLIENT
+20250116-17:17:13: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-17:17:13: Created session: FIX.4.4:SERVER->CLIENT
+20250116-17:21:29: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-17:21:29: Created session: FIX.4.4:SERVER->CLIENT
+20250116-17:23:14: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-17:23:14: Created session: FIX.4.4:SERVER->CLIENT
+20250116-17:35:30: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-17:35:30: Created session: FIX.4.4:SERVER->CLIENT
+20250116-17:41:43: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-17:41:43: Created session: FIX.4.4:SERVER->CLIENT
+20250116-17:41:58: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:53578
+20250116-17:41:58: Acceptor heartbeat set to 30 seconds
+20250116-17:41:58: Received logon
+20250116-17:41:58: Responding to Logon request
+20250116-17:44:18: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-17:44:18: Created session: FIX.4.4:SERVER->CLIENT
+20250116-17:44:54: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:53619
+20250116-17:44:54: Acceptor heartbeat set to 30 seconds
+20250116-17:44:54: Received logon
+20250116-17:44:54: Responding to Logon request
+20250116-17:47:34: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-17:47:34: Created session: FIX.4.4:SERVER->CLIENT
+20250116-17:48:15: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:53646
+20250116-17:48:15: Acceptor heartbeat set to 30 seconds
+20250116-17:48:15: Received logon
+20250116-17:48:15: Responding to Logon request
+20250116-17:51:58: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-17:51:58: Created session: FIX.4.4:SERVER->CLIENT
+20250116-17:52:02: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:53682
+20250116-17:52:02: Acceptor heartbeat set to 30 seconds
+20250116-17:52:02: Received logon
+20250116-17:52:02: Responding to Logon request
+20250116-17:53:17: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-17:53:17: Created session: FIX.4.4:SERVER->CLIENT
+20250116-17:53:23: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:53698
+20250116-17:53:23: Acceptor heartbeat set to 30 seconds
+20250116-17:53:23: Received logon
+20250116-17:53:23: Responding to Logon request
+20250116-17:57:18: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-17:57:18: Created session: FIX.4.4:SERVER->CLIENT
+20250116-17:57:23: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:53758
+20250116-17:57:23: Acceptor heartbeat set to 30 seconds
+20250116-17:57:23: Received logon
+20250116-17:57:23: Responding to Logon request
+20250116-18:10:46: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-18:10:46: Created session: FIX.4.4:SERVER->CLIENT
+20250116-18:10:50: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:53927
+20250116-18:10:50: Acceptor heartbeat set to 30 seconds
+20250116-18:10:50: Received logon
+20250116-18:10:50: Responding to Logon request
+20250116-18:11:21: MsgSeqNum too high, expecting 28 but received 29: 8=FIX.4.49=5635=034=2949=CLIENT52=20250116-18:11:21.04556=SERVER10=159
+20250116-18:11:21: Enqueued at pos 29: 8=FIX.4.49=5635=034=2949=CLIENT52=20250116-18:11:21.04556=SERVER10=159
+20250116-18:11:21: Sent ResendRequest FROM: 28 TO: infinity
+20250116-18:11:21: Rejecting invalid message: quickfix.FieldException: Required tag missing, field=60: 8=FIX.4.49=13035=D34=2843=Y49=CLIENT52=20250116-18:11:21.05856=SERVER122=20250116-18:10:50.79211=1234538=10040=244=100.554=155=AAPL10=198
+20250116-18:11:21: Reject sent for message 28: Required tag missing, field=60
+20250116-18:11:21: Processing queued message: 29
+20250116-18:11:21: ResendRequest for messages FROM 28 TO 28 has been satisfied.
+20250116-18:19:47: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-18:19:47: Created session: FIX.4.4:SERVER->CLIENT
+20250116-18:19:55: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:54005
+20250116-18:19:55: Acceptor heartbeat set to 30 seconds
+20250116-18:19:55: Received logon
+20250116-18:19:55: Responding to Logon request
+20250116-18:20:26: MsgSeqNum too high, expecting 34 but received 35: 8=FIX.4.49=5635=034=3549=CLIENT52=20250116-18:20:26.20256=SERVER10=156
+20250116-18:20:26: Enqueued at pos 35: 8=FIX.4.49=5635=034=3549=CLIENT52=20250116-18:20:26.20256=SERVER10=156
+20250116-18:20:26: Sent ResendRequest FROM: 34 TO: infinity
+20250116-18:20:26: ResendRequest for messages FROM 34 TO 34 has been satisfied.
+20250116-18:20:26: Processing queued message: 35
+20250116-18:31:40: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-18:31:40: Created session: FIX.4.4:SERVER->CLIENT
+20250116-18:34:55: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-18:34:55: Created session: FIX.4.4:SERVER->CLIENT
+20250116-18:35:06: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:54144
+20250116-18:35:06: Acceptor heartbeat set to 30 seconds
+20250116-18:35:06: Required field missing from logon
+20250116-18:35:06: Disconnecting: Required field missing from logon
+20250116-18:35:36: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:54155
+20250116-18:35:36: Acceptor heartbeat set to 30 seconds
+20250116-18:35:36: Required field missing from logon
+20250116-18:35:36: Disconnecting: Required field missing from logon
+20250116-18:36:06: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:54160
+20250116-18:36:06: Acceptor heartbeat set to 30 seconds
+20250116-18:36:06: Required field missing from logon
+20250116-18:36:06: Disconnecting: Required field missing from logon
+20250116-18:36:33: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-18:36:33: Created session: FIX.4.4:SERVER->CLIENT
+20250116-18:36:38: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:54169
+20250116-18:36:38: Acceptor heartbeat set to 30 seconds
+20250116-18:36:38: Required field missing from logon
+20250116-18:36:38: Disconnecting: Required field missing from logon
+20250116-18:37:08: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:54181
+20250116-18:37:08: Acceptor heartbeat set to 30 seconds
+20250116-18:37:08: Required field missing from logon
+20250116-18:37:08: Disconnecting: Required field missing from logon
+20250116-18:37:38: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:54182
+20250116-18:37:38: Acceptor heartbeat set to 30 seconds
+20250116-18:37:38: Required field missing from logon
+20250116-18:37:38: Disconnecting: Required field missing from logon
+20250116-18:38:08: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:54188
+20250116-18:38:08: Acceptor heartbeat set to 30 seconds
+20250116-18:38:08: Required field missing from logon
+20250116-18:38:08: Disconnecting: Required field missing from logon
+20250116-18:38:39: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:54198
+20250116-18:38:39: Acceptor heartbeat set to 30 seconds
+20250116-18:38:39: Required field missing from logon
+20250116-18:38:39: Disconnecting: Required field missing from logon
+20250116-18:39:09: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:54204
+20250116-18:39:09: Acceptor heartbeat set to 30 seconds
+20250116-18:39:09: Required field missing from logon
+20250116-18:39:09: Disconnecting: Required field missing from logon
+20250116-18:42:02: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-18:42:02: Created session: FIX.4.4:SERVER->CLIENT
+20250116-18:42:17: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:54243
+20250116-18:42:17: Acceptor heartbeat set to 30 seconds
+20250116-18:42:17: Received logon
+20250116-18:42:17: Responding to Logon request
+20250116-18:42:17: MsgSeqNum too high, expecting 58 but received 69: 8=FIX.4.49=6835=A34=6949=CLIENT52=20250116-18:42:17.32656=SERVER98=0108=3010=219
+20250116-18:42:17: Enqueued at pos 69: 8=FIX.4.49=6835=A34=6949=CLIENT52=20250116-18:42:17.32656=SERVER98=0108=3010=219
+20250116-18:42:17: Sent ResendRequest FROM: 58 TO: infinity
+20250116-18:42:17: Received SequenceReset FROM: 58 TO: 59
+20250116-18:42:17: Received SequenceReset FROM: 60 TO: 63
+20250116-18:42:17: Received SequenceReset FROM: 64 TO: 70
+20250116-18:42:17: ResendRequest for messages FROM 58 TO 68 has been satisfied.
+20250116-18:43:39: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-18:43:39: Created session: FIX.4.4:SERVER->CLIENT
+20250116-18:44:13: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:54270
+20250116-18:44:13: Acceptor heartbeat set to 30 seconds
+20250116-18:44:13: Received logon
+20250116-18:44:13: Responding to Logon request
+20250116-18:44:44: MsgSeqNum too high, expecting 74 but received 75: 8=FIX.4.49=5635=034=7549=CLIENT52=20250116-18:44:44.32956=SERVER10=176
+20250116-18:44:44: Enqueued at pos 75: 8=FIX.4.49=5635=034=7549=CLIENT52=20250116-18:44:44.32956=SERVER10=176
+20250116-18:44:44: Sent ResendRequest FROM: 74 TO: infinity
+20250116-18:44:44: ResendRequest for messages FROM 74 TO 74 has been satisfied.
+20250116-18:44:44: Processing queued message: 75
+20250116-18:45:10: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54303 since session is already established from /127.0.0.1:54270
+20250116-18:45:12: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54304 since session is already established from /127.0.0.1:54270
+20250116-18:45:29: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54305 since session is already established from /127.0.0.1:54270
+20250116-18:45:40: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54307 since session is already established from /127.0.0.1:54270
+20250116-18:45:42: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54308 since session is already established from /127.0.0.1:54270
+20250116-18:45:59: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54311 since session is already established from /127.0.0.1:54270
+20250116-18:46:10: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54314 since session is already established from /127.0.0.1:54270
+20250116-18:46:10: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54313 since session is already established from /127.0.0.1:54270
+20250116-18:46:12: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54315 since session is already established from /127.0.0.1:54270
+20250116-18:46:29: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54317 since session is already established from /127.0.0.1:54270
+20250116-18:46:40: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54321 since session is already established from /127.0.0.1:54270
+20250116-18:46:40: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54320 since session is already established from /127.0.0.1:54270
+20250116-18:46:42: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54322 since session is already established from /127.0.0.1:54270
+20250116-18:46:59: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54327 since session is already established from /127.0.0.1:54270
+20250116-18:47:10: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54330 since session is already established from /127.0.0.1:54270
+20250116-18:47:11: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54331 since session is already established from /127.0.0.1:54270
+20250116-18:47:13: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54332 since session is already established from /127.0.0.1:54270
+20250116-18:47:30: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54333 since session is already established from /127.0.0.1:54270
+20250116-18:47:40: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54335 since session is already established from /127.0.0.1:54270
+20250116-18:47:41: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54336 since session is already established from /127.0.0.1:54270
+20250116-18:47:43: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54337 since session is already established from /127.0.0.1:54270
+20250116-18:48:00: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54340 since session is already established from /127.0.0.1:54270
+20250116-18:48:11: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54342 since session is already established from /127.0.0.1:54270
+20250116-18:48:11: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54341 since session is already established from /127.0.0.1:54270
+20250116-18:48:13: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54343 since session is already established from /127.0.0.1:54270
+20250116-18:48:27: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-18:48:27: Created session: FIX.4.4:SERVER->CLIENT
+20250116-18:48:47: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:54358
+20250116-18:48:47: Acceptor heartbeat set to 30 seconds
+20250116-18:48:47: Received logon
+20250116-18:48:47: Responding to Logon request
+20250116-18:49:18: MsgSeqNum too high, expecting 84 but received 85: 8=FIX.4.49=5635=034=8549=CLIENT52=20250116-18:49:18.85456=SERVER10=186
+20250116-18:49:18: Enqueued at pos 85: 8=FIX.4.49=5635=034=8549=CLIENT52=20250116-18:49:18.85456=SERVER10=186
+20250116-18:49:18: Sent ResendRequest FROM: 84 TO: infinity
+20250116-18:49:18: ResendRequest for messages FROM 84 TO 84 has been satisfied.
+20250116-18:49:18: Processing queued message: 85
+20250116-18:51:20: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-18:51:20: Created session: FIX.4.4:SERVER->CLIENT
+20250116-18:51:28: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:54388
+20250116-18:51:28: Acceptor heartbeat set to 30 seconds
+20250116-18:51:28: Received logon
+20250116-18:51:28: Responding to Logon request
+20250116-18:51:58: MsgSeqNum too high, expecting 90 but received 91: 8=FIX.4.49=5635=034=9149=CLIENT52=20250116-18:51:58.16056=SERVER10=170
+20250116-18:51:58: Enqueued at pos 91: 8=FIX.4.49=5635=034=9149=CLIENT52=20250116-18:51:58.16056=SERVER10=170
+20250116-18:51:58: Sent ResendRequest FROM: 90 TO: infinity
+20250116-18:51:58: ResendRequest for messages FROM 90 TO 90 has been satisfied.
+20250116-18:51:58: Processing queued message: 91
+20250116-18:52:21: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54398 since session is already established from /127.0.0.1:54388
+20250116-18:52:33: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54399 since session is already established from /127.0.0.1:54388
+20250116-18:52:51: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54404 since session is already established from /127.0.0.1:54388
+20250116-18:53:03: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54406 since session is already established from /127.0.0.1:54388
+20250116-18:53:21: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54409 since session is already established from /127.0.0.1:54388
+20250116-18:53:33: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54410 since session is already established from /127.0.0.1:54388
+20250116-18:53:51: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54412 since session is already established from /127.0.0.1:54388
+20250116-18:54:03: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54415 since session is already established from /127.0.0.1:54388
+20250116-18:54:22: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54416 since session is already established from /127.0.0.1:54388
+20250116-18:54:34: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54438 since session is already established from /127.0.0.1:54388
+20250116-18:54:52: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54441 since session is already established from /127.0.0.1:54388
+20250116-18:55:04: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54444 since session is already established from /127.0.0.1:54388
+20250116-18:56:19: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-18:56:19: Created session: FIX.4.4:SERVER->CLIENT
+20250116-18:56:25: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:54460
+20250116-18:56:25: Acceptor heartbeat set to 30 seconds
+20250116-18:56:25: Received logon
+20250116-18:56:25: Responding to Logon request
+20250116-18:56:25: MsgSeqNum too high, expecting 98 but received 101: 8=FIX.4.49=6935=A34=10149=CLIENT52=20250116-18:56:25.47656=SERVER98=0108=3010=009
+20250116-18:56:25: Enqueued at pos 101: 8=FIX.4.49=6935=A34=10149=CLIENT52=20250116-18:56:25.47656=SERVER98=0108=3010=009
+20250116-18:56:25: Sent ResendRequest FROM: 98 TO: infinity
+20250116-18:56:25: Received SequenceReset FROM: 98 TO: 100
+20250116-18:56:25: ResendRequest for messages FROM 98 TO 100 has been satisfied.
+20250116-18:56:25: Processing queued message: 101
+20250116-18:58:15: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54473 since session is already established from /127.0.0.1:54460
+20250116-18:58:23: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54474 since session is already established from /127.0.0.1:54460
+20250116-18:58:34: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54475 since session is already established from /127.0.0.1:54460
+20250116-18:58:45: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54479 since session is already established from /127.0.0.1:54460
+20250116-18:58:53: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54480 since session is already established from /127.0.0.1:54460
+20250116-18:59:04: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54482 since session is already established from /127.0.0.1:54460
+20250116-18:59:11: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54485 since session is already established from /127.0.0.1:54460
+20250116-18:59:13: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54486 since session is already established from /127.0.0.1:54460
+20250116-18:59:15: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54487 since session is already established from /127.0.0.1:54460
+20250116-18:59:15: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54488 since session is already established from /127.0.0.1:54460
+20250116-18:59:17: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54489 since session is already established from /127.0.0.1:54460
+20250116-18:59:23: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54490 since session is already established from /127.0.0.1:54460
+20250116-18:59:34: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54496 since session is already established from /127.0.0.1:54460
+20250116-18:59:41: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54497 since session is already established from /127.0.0.1:54460
+20250116-18:59:43: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54498 since session is already established from /127.0.0.1:54460
+20250116-18:59:45: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54499 since session is already established from /127.0.0.1:54460
+20250116-18:59:45: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54500 since session is already established from /127.0.0.1:54460
+20250116-18:59:47: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54501 since session is already established from /127.0.0.1:54460
+20250116-18:59:53: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54502 since session is already established from /127.0.0.1:54460
+20250116-19:00:04: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54504 since session is already established from /127.0.0.1:54460
+20250116-19:00:11: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54506 since session is already established from /127.0.0.1:54460
+20250116-19:00:13: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54507 since session is already established from /127.0.0.1:54460
+20250116-19:00:15: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54508 since session is already established from /127.0.0.1:54460
+20250116-19:00:16: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54509 since session is already established from /127.0.0.1:54460
+20250116-19:00:17: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54510 since session is already established from /127.0.0.1:54460
+20250116-19:00:23: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54512 since session is already established from /127.0.0.1:54460
+20250116-19:00:25: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54513 since session is already established from /127.0.0.1:54460
+20250116-19:00:30: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54514 since session is already established from /127.0.0.1:54460
+20250116-19:00:34: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54516 since session is already established from /127.0.0.1:54460
+20250116-19:00:35: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54517 since session is already established from /127.0.0.1:54460
+20250116-19:00:38: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54518 since session is already established from /127.0.0.1:54460
+20250116-19:00:41: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54519 since session is already established from /127.0.0.1:54460
+20250116-19:00:43: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54520 since session is already established from /127.0.0.1:54460
+20250116-19:00:45: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54521 since session is already established from /127.0.0.1:54460
+20250116-19:00:46: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54522 since session is already established from /127.0.0.1:54460
+20250116-19:00:47: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54523 since session is already established from /127.0.0.1:54460
+20250116-19:00:54: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54525 since session is already established from /127.0.0.1:54460
+20250116-19:00:55: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54526 since session is already established from /127.0.0.1:54460
+20250116-19:01:00: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54527 since session is already established from /127.0.0.1:54460
+20250116-19:01:04: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54529 since session is already established from /127.0.0.1:54460
+20250116-19:01:05: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54530 since session is already established from /127.0.0.1:54460
+20250116-19:01:08: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54533 since session is already established from /127.0.0.1:54460
+20250116-19:01:12: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54535 since session is already established from /127.0.0.1:54460
+20250116-19:01:14: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54536 since session is already established from /127.0.0.1:54460
+20250116-19:01:16: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54537 since session is already established from /127.0.0.1:54460
+20250116-19:01:16: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54538 since session is already established from /127.0.0.1:54460
+20250116-19:01:18: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54539 since session is already established from /127.0.0.1:54460
+20250116-19:01:24: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54540 since session is already established from /127.0.0.1:54460
+20250116-19:01:25: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54543 since session is already established from /127.0.0.1:54460
+20250116-19:01:30: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54545 since session is already established from /127.0.0.1:54460
+20250116-19:01:34: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54548 since session is already established from /127.0.0.1:54460
+20250116-19:01:35: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54549 since session is already established from /127.0.0.1:54460
+20250116-19:01:38: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54550 since session is already established from /127.0.0.1:54460
+20250116-19:01:42: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54551 since session is already established from /127.0.0.1:54460
+20250116-19:01:44: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54552 since session is already established from /127.0.0.1:54460
+20250116-19:01:46: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54553 since session is already established from /127.0.0.1:54460
+20250116-19:01:46: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54554 since session is already established from /127.0.0.1:54460
+20250116-19:01:48: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54555 since session is already established from /127.0.0.1:54460
+20250116-19:01:54: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54556 since session is already established from /127.0.0.1:54460
+20250116-19:01:55: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54557 since session is already established from /127.0.0.1:54460
+20250116-19:02:00: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54559 since session is already established from /127.0.0.1:54460
+20250116-19:02:04: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54564 since session is already established from /127.0.0.1:54460
+20250116-19:02:05: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54565 since session is already established from /127.0.0.1:54460
+20250116-19:02:08: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54567 since session is already established from /127.0.0.1:54460
+20250116-19:02:12: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54568 since session is already established from /127.0.0.1:54460
+20250116-19:02:14: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54569 since session is already established from /127.0.0.1:54460
+20250116-19:02:20: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-19:02:20: Created session: FIX.4.4:SERVER->CLIENT
+20250116-19:02:24: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:54580
+20250116-19:02:24: Acceptor heartbeat set to 30 seconds
+20250116-19:02:24: Received logon
+20250116-19:02:24: Responding to Logon request
+20250116-19:02:24: MsgSeqNum too high, expecting 113 but received 119: 8=FIX.4.49=6935=A34=11949=CLIENT52=20250116-19:02:24.48656=SERVER98=0108=3010=010
+20250116-19:02:24: Enqueued at pos 119: 8=FIX.4.49=6935=A34=11949=CLIENT52=20250116-19:02:24.48656=SERVER98=0108=3010=010
+20250116-19:02:24: Sent ResendRequest FROM: 113 TO: infinity
+20250116-19:02:24: Received SequenceReset FROM: 113 TO: 120
+20250116-19:02:24: ResendRequest for messages FROM 113 TO 118 has been satisfied.
+20250116-19:02:43: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54582 since session is already established from /127.0.0.1:54580
+20250116-19:02:54: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54583 since session is already established from /127.0.0.1:54580
+20250116-19:03:13: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54585 since session is already established from /127.0.0.1:54580
+20250116-19:03:20: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54587 since session is already established from /127.0.0.1:54580
+20250116-19:03:23: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54588 since session is already established from /127.0.0.1:54580
+20250116-19:03:24: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54590 since session is already established from /127.0.0.1:54580
+20250116-19:03:24: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54589 since session is already established from /127.0.0.1:54580
+20250116-19:03:43: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54591 since session is already established from /127.0.0.1:54580
+20250116-19:03:50: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54592 since session is already established from /127.0.0.1:54580
+20250116-19:03:53: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54594 since session is already established from /127.0.0.1:54580
+20250116-19:03:54: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54596 since session is already established from /127.0.0.1:54580
+20250116-19:03:54: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54595 since session is already established from /127.0.0.1:54580
+20250116-19:04:13: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54600 since session is already established from /127.0.0.1:54580
+20250116-19:04:20: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54601 since session is already established from /127.0.0.1:54580
+20250116-19:04:23: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54602 since session is already established from /127.0.0.1:54580
+20250116-19:04:24: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54604 since session is already established from /127.0.0.1:54580
+20250116-19:04:24: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54603 since session is already established from /127.0.0.1:54580
+20250116-19:04:44: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54627 since session is already established from /127.0.0.1:54580
+20250116-19:04:50: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54629 since session is already established from /127.0.0.1:54580
+20250116-19:04:53: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54630 since session is already established from /127.0.0.1:54580
+20250116-19:04:54: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54631 since session is already established from /127.0.0.1:54580
+20250116-19:04:55: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54632 since session is already established from /127.0.0.1:54580
+20250116-19:05:14: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54637 since session is already established from /127.0.0.1:54580
+20250116-19:05:21: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54638 since session is already established from /127.0.0.1:54580
+20250116-19:05:24: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54640 since session is already established from /127.0.0.1:54580
+20250116-19:05:25: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54642 since session is already established from /127.0.0.1:54580
+20250116-19:05:25: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54641 since session is already established from /127.0.0.1:54580
+20250116-19:05:44: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54647 since session is already established from /127.0.0.1:54580
+20250116-19:05:51: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54651 since session is already established from /127.0.0.1:54580
+20250116-19:05:54: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54652 since session is already established from /127.0.0.1:54580
+20250116-19:05:55: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54654 since session is already established from /127.0.0.1:54580
+20250116-19:05:55: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54653 since session is already established from /127.0.0.1:54580
+20250116-19:06:07: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-19:06:07: Created session: FIX.4.4:SERVER->CLIENT
+20250116-19:06:20: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:54667
+20250116-19:06:20: Acceptor heartbeat set to 30 seconds
+20250116-19:06:20: Received logon
+20250116-19:06:20: Responding to Logon request
+20250116-19:06:20: MsgSeqNum too high, expecting 128 but received 136: 8=FIX.4.49=6935=A34=13649=CLIENT52=20250116-19:06:20.85756=SERVER98=0108=3010=011
+20250116-19:06:20: Enqueued at pos 136: 8=FIX.4.49=6935=A34=13649=CLIENT52=20250116-19:06:20.85756=SERVER98=0108=3010=011
+20250116-19:06:20: Sent ResendRequest FROM: 128 TO: infinity
+20250116-19:06:20: Received SequenceReset FROM: 128 TO: 135
+20250116-19:06:20: ResendRequest for messages FROM 128 TO 135 has been satisfied.
+20250116-19:06:20: Processing queued message: 136
+20250116-19:09:13: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-19:09:13: Created session: FIX.4.4:SERVER->CLIENT
+20250116-19:09:21: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:54694
+20250116-19:09:21: Acceptor heartbeat set to 30 seconds
+20250116-19:09:21: Received logon
+20250116-19:09:21: Responding to Logon request
+20250116-19:09:21: MsgSeqNum too high, expecting 142 but received 143: 8=FIX.4.49=6935=A34=14349=CLIENT52=20250116-19:09:21.02156=SERVER98=0108=3010=252
+20250116-19:09:21: Enqueued at pos 143: 8=FIX.4.49=6935=A34=14349=CLIENT52=20250116-19:09:21.02156=SERVER98=0108=3010=252
+20250116-19:09:21: Sent ResendRequest FROM: 142 TO: infinity
+20250116-19:09:21: ResendRequest for messages FROM 142 TO 142 has been satisfied.
+20250116-19:09:21: Processing queued message: 143
+20250116-19:09:34: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54696 since session is already established from /127.0.0.1:54694
+20250116-19:09:49: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54697 since session is already established from /127.0.0.1:54694
+20250116-19:10:04: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54699 since session is already established from /127.0.0.1:54694
+20250116-19:10:19: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54703 since session is already established from /127.0.0.1:54694
+20250116-19:11:36: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-19:11:36: Created session: FIX.4.4:SERVER->CLIENT
+20250116-19:12:28: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:54725
+20250116-19:12:28: Acceptor heartbeat set to 30 seconds
+20250116-19:12:28: Received logon
+20250116-19:12:28: Responding to Logon request
+20250116-19:12:28: MsgSeqNum too high, expecting 146 but received 147: 8=FIX.4.49=6935=A34=14749=CLIENT52=20250116-19:12:28.17956=SERVER98=0108=3010=015
+20250116-19:12:28: Enqueued at pos 147: 8=FIX.4.49=6935=A34=14749=CLIENT52=20250116-19:12:28.17956=SERVER98=0108=3010=015
+20250116-19:12:28: Sent ResendRequest FROM: 146 TO: infinity
+20250116-19:12:28: ResendRequest for messages FROM 146 TO 146 has been satisfied.
+20250116-19:12:28: Processing queued message: 147
+20250116-19:12:33: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54726 since session is already established from /127.0.0.1:54725
+20250116-19:13:03: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54730 since session is already established from /127.0.0.1:54725
+20250116-19:13:33: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54734 since session is already established from /127.0.0.1:54725
+20250116-19:14:03: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54751 since session is already established from /127.0.0.1:54725
+20250116-19:14:34: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54781 since session is already established from /127.0.0.1:54725
+20250116-19:15:04: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54784 since session is already established from /127.0.0.1:54725
+20250116-19:15:34: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54788 since session is already established from /127.0.0.1:54725
+20250116-19:15:47: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-19:15:47: Created session: FIX.4.4:SERVER->CLIENT
+20250116-19:16:11: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-19:16:11: Created session: FIX.4.4:SERVER->CLIENT
+20250116-19:16:29: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-19:16:29: Created session: FIX.4.4:SERVER->CLIENT
+20250116-19:16:32: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:54821
+20250116-19:16:32: Acceptor heartbeat set to 30 seconds
+20250116-19:16:32: Received logon
+20250116-19:16:32: Responding to Logon request
+20250116-19:16:32: MsgSeqNum too high, expecting 154 but received 157: 8=FIX.4.49=6935=A34=15749=CLIENT52=20250116-19:16:32.14856=SERVER98=0108=3010=011
+20250116-19:16:32: Enqueued at pos 157: 8=FIX.4.49=6935=A34=15749=CLIENT52=20250116-19:16:32.14856=SERVER98=0108=3010=011
+20250116-19:16:32: Sent ResendRequest FROM: 154 TO: infinity
+20250116-19:16:32: Received SequenceReset FROM: 154 TO: 156
+20250116-19:16:32: ResendRequest for messages FROM 154 TO 156 has been satisfied.
+20250116-19:16:32: Processing queued message: 157
+20250116-19:16:39: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54823 since session is already established from /127.0.0.1:54821
+20250116-19:17:09: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:54826 since session is already established from /127.0.0.1:54821
+20250116-19:17:30: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-19:17:30: Created session: FIX.4.4:SERVER->CLIENT
+20250116-19:18:01: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:54841
+20250116-19:18:01: Acceptor heartbeat set to 30 seconds
+20250116-19:18:01: Received logon
+20250116-19:18:01: Responding to Logon request
+20250116-19:18:01: MsgSeqNum too high, expecting 159 but received 161: 8=FIX.4.49=6935=A34=16149=CLIENT52=20250116-19:18:01.60656=SERVER98=0108=3010=003
+20250116-19:18:01: Enqueued at pos 161: 8=FIX.4.49=6935=A34=16149=CLIENT52=20250116-19:18:01.60656=SERVER98=0108=3010=003
+20250116-19:18:01: Sent ResendRequest FROM: 159 TO: infinity
+20250116-19:18:01: ResendRequest for messages FROM 159 TO 160 has been satisfied.
+20250116-19:18:01: Received SequenceReset FROM: 160 TO: 162
+20250116-19:21:31: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-19:21:31: Created session: FIX.4.4:SERVER->CLIENT
+20250116-19:22:02: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:54879
+20250116-19:22:02: Acceptor heartbeat set to 30 seconds
+20250116-19:22:02: Received logon
+20250116-19:22:02: Responding to Logon request
+20250116-19:22:27: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-19:22:27: Created session: FIX.4.4:SERVER->CLIENT
+20250116-19:22:58: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:54896
+20250116-19:22:58: Acceptor heartbeat set to 30 seconds
+20250116-19:22:58: Received logon
+20250116-19:22:58: Responding to Logon request
+20250116-19:26:09: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-19:26:09: Created session: FIX.4.4:SERVER->CLIENT
+20250116-19:26:15: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:54952
+20250116-19:26:15: Acceptor heartbeat set to 30 seconds
+20250116-19:26:15: Received logon
+20250116-19:26:15: Responding to Logon request
+20250116-19:26:44: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-19:26:44: Created session: FIX.4.4:SERVER->CLIENT
+20250116-19:26:48: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:54972
+20250116-19:26:48: Acceptor heartbeat set to 30 seconds
+20250116-19:26:48: Received logon
+20250116-19:26:48: Responding to Logon request
+20250116-19:28:58: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-19:28:58: Created session: FIX.4.4:SERVER->CLIENT
+20250116-19:29:07: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:54995
+20250116-19:29:07: Acceptor heartbeat set to 30 seconds
+20250116-19:29:07: Received logon
+20250116-19:29:07: Responding to Logon request
+20250116-19:31:22: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-19:31:22: Created session: FIX.4.4:SERVER->CLIENT
+20250116-19:31:31: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:55025
+20250116-19:31:31: Acceptor heartbeat set to 30 seconds
+20250116-19:31:31: Received logon
+20250116-19:31:31: Responding to Logon request
+20250116-19:42:58: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-19:42:58: Created session: FIX.4.4:SERVER->CLIENT
+20250116-19:43:22: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:55112
+20250116-19:43:22: Acceptor heartbeat set to 30 seconds
+20250116-19:43:22: Received logon
+20250116-19:43:22: Responding to Logon request
+20250116-19:44:55: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-19:44:55: Created session: FIX.4.4:SERVER->CLIENT
+20250116-19:44:58: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:55149
+20250116-19:44:58: Acceptor heartbeat set to 30 seconds
+20250116-19:44:58: Received logon
+20250116-19:44:58: Responding to Logon request
+20250116-19:48:15: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-19:48:15: Created session: FIX.4.4:SERVER->CLIENT
+20250116-19:48:37: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-19:48:37: Created session: FIX.4.4:SERVER->CLIENT
+20250116-19:48:51: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:55230
+20250116-19:48:51: Acceptor heartbeat set to 30 seconds
+20250116-19:48:51: Received logon
+20250116-19:48:51: Responding to Logon request
+20250116-19:54:20: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-19:54:20: Created session: FIX.4.4:SERVER->CLIENT
+20250116-19:54:26: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:55289
+20250116-19:54:26: Acceptor heartbeat set to 30 seconds
+20250116-19:54:26: Received logon
+20250116-19:54:26: Responding to Logon request
+20250116-19:55:56: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-19:55:56: Created session: FIX.4.4:SERVER->CLIENT
+20250116-19:56:27: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:55332
+20250116-19:56:27: Acceptor heartbeat set to 30 seconds
+20250116-19:56:27: Received logon
+20250116-19:56:27: Responding to Logon request
+20250116-19:56:59: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-19:56:59: Created session: FIX.4.4:SERVER->CLIENT
+20250116-19:57:03: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:55348
+20250116-19:57:03: Acceptor heartbeat set to 30 seconds
+20250116-19:57:03: Received logon
+20250116-19:57:03: Responding to Logon request
+20250116-20:30:06: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-20:30:06: Created session: FIX.4.4:SERVER->CLIENT
+20250116-20:30:09: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:55586
+20250116-20:30:09: Acceptor heartbeat set to 30 seconds
+20250116-20:30:09: Received logon
+20250116-20:30:09: Responding to Logon request
+20250116-20:34:16: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-20:34:16: Created session: FIX.4.4:SERVER->CLIENT
+20250116-20:34:19: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:55618
+20250116-20:34:19: Acceptor heartbeat set to 30 seconds
+20250116-20:34:19: Received logon
+20250116-20:34:19: Responding to Logon request
+20250116-20:49:15: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-20:49:15: Created session: FIX.4.4:SERVER->CLIENT
+20250116-20:49:33: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:55753
+20250116-20:49:33: Acceptor heartbeat set to 30 seconds
+20250116-20:49:33: Received logon
+20250116-20:49:33: Responding to Logon request
+20250116-21:39:11: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-21:39:11: Created session: FIX.4.4:SERVER->CLIENT
+20250116-21:39:56: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:56244
+20250116-21:39:56: Acceptor heartbeat set to 30 seconds
+20250116-21:39:56: Received logon
+20250116-21:39:56: Responding to Logon request
+20250116-21:49:34: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-21:49:34: Created session: FIX.4.4:SERVER->CLIENT
+20250116-21:49:53: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:56326
+20250116-21:49:53: Acceptor heartbeat set to 30 seconds
+20250116-21:49:53: Received logon
+20250116-21:49:53: Responding to Logon request
+20250116-21:53:15: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-21:53:15: Created session: FIX.4.4:SERVER->CLIENT
+20250116-21:53:20: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:56363
+20250116-21:53:20: Acceptor heartbeat set to 30 seconds
+20250116-21:53:20: Received logon
+20250116-21:53:20: Responding to Logon request
+20250116-22:00:17: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-22:00:17: Created session: FIX.4.4:SERVER->CLIENT
+20250116-22:00:30: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:56422
+20250116-22:00:30: Acceptor heartbeat set to 30 seconds
+20250116-22:00:30: Received logon
+20250116-22:00:30: Responding to Logon request
+20250116-22:00:58: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-22:00:58: Created session: FIX.4.4:SERVER->CLIENT
+20250116-22:01:02: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:56435
+20250116-22:01:02: Acceptor heartbeat set to 30 seconds
+20250116-22:01:02: Received logon
+20250116-22:01:02: Responding to Logon request
+20250116-22:01:18: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-22:01:18: Created session: FIX.4.4:SERVER->CLIENT
+20250116-22:01:24: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:56445
+20250116-22:01:24: Acceptor heartbeat set to 30 seconds
+20250116-22:01:24: Received logon
+20250116-22:01:24: Responding to Logon request
+20250116-22:01:41: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-22:01:41: Created session: FIX.4.4:SERVER->CLIENT
+20250116-22:01:49: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:56462
+20250116-22:01:49: Acceptor heartbeat set to 30 seconds
+20250116-22:01:49: Received logon
+20250116-22:01:49: Responding to Logon request
+20250116-22:04:42: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-22:04:42: Created session: FIX.4.4:SERVER->CLIENT
+20250116-22:04:48: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:56492
+20250116-22:04:48: Acceptor heartbeat set to 30 seconds
+20250116-22:04:48: Received logon
+20250116-22:04:48: Responding to Logon request
+20250116-22:06:17: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-22:06:17: Created session: FIX.4.4:SERVER->CLIENT
+20250116-22:06:23: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:56545
+20250116-22:06:23: Acceptor heartbeat set to 30 seconds
+20250116-22:06:23: Received logon
+20250116-22:06:23: Responding to Logon request
+20250116-22:10:24: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-22:10:24: Created session: FIX.4.4:SERVER->CLIENT
+20250116-22:10:27: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:56570
+20250116-22:10:27: Acceptor heartbeat set to 30 seconds
+20250116-22:10:27: Received logon
+20250116-22:10:27: Responding to Logon request
+20250116-22:12:34: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-22:12:34: Created session: FIX.4.4:SERVER->CLIENT
+20250116-22:12:41: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:56663
+20250116-22:12:41: Acceptor heartbeat set to 30 seconds
+20250116-22:12:41: Received logon
+20250116-22:12:41: Responding to Logon request
+20250116-22:14:56: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-22:14:56: Created session: FIX.4.4:SERVER->CLIENT
+20250116-22:15:05: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:56848
+20250116-22:15:05: Acceptor heartbeat set to 30 seconds
+20250116-22:15:05: Received logon
+20250116-22:15:05: Responding to Logon request
+20250116-22:15:41: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-22:15:41: Created session: FIX.4.4:SERVER->CLIENT
+20250116-22:15:46: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:56931
+20250116-22:15:46: Acceptor heartbeat set to 30 seconds
+20250116-22:15:46: Received logon
+20250116-22:15:46: Responding to Logon request
+20250116-22:17:59: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-22:17:59: Created session: FIX.4.4:SERVER->CLIENT
+20250116-22:18:04: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:57034
+20250116-22:18:04: Acceptor heartbeat set to 30 seconds
+20250116-22:18:04: Received logon
+20250116-22:18:04: Responding to Logon request
+20250116-22:18:54: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-22:18:54: Created session: FIX.4.4:SERVER->CLIENT
+20250116-22:19:00: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:57051
+20250116-22:19:00: Acceptor heartbeat set to 30 seconds
+20250116-22:19:00: Received logon
+20250116-22:19:00: Responding to Logon request
+20250116-22:19:40: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-22:19:40: Created session: FIX.4.4:SERVER->CLIENT
+20250116-22:19:44: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:57064
+20250116-22:19:44: Acceptor heartbeat set to 30 seconds
+20250116-22:19:44: Received logon
+20250116-22:19:44: Responding to Logon request
+20250116-22:23:17: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-22:23:17: Created session: FIX.4.4:SERVER->CLIENT
+20250116-22:24:07: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:57114
+20250116-22:24:07: Acceptor heartbeat set to 30 seconds
+20250116-22:24:07: Received logon
+20250116-22:24:07: Responding to Logon request
+20250116-22:27:09: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-22:27:09: Created session: FIX.4.4:SERVER->CLIENT
+20250116-22:28:03: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:57167
+20250116-22:28:03: Acceptor heartbeat set to 30 seconds
+20250116-22:28:03: Received logon
+20250116-22:28:03: Responding to Logon request
+20250116-22:31:49: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-22:31:49: Created session: FIX.4.4:SERVER->CLIENT
+20250116-22:31:58: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:57206
+20250116-22:31:58: Acceptor heartbeat set to 30 seconds
+20250116-22:31:58: Received logon
+20250116-22:31:58: Responding to Logon request
+20250116-22:32:20: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:57211 since session is already established from /127.0.0.1:57206
+20250116-22:32:46: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-22:32:46: Created session: FIX.4.4:SERVER->CLIENT
+20250116-22:33:16: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:57228
+20250116-22:33:16: Acceptor heartbeat set to 30 seconds
+20250116-22:33:16: Received logon
+20250116-22:33:16: Responding to Logon request
+20250116-22:37:32: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-22:37:32: Created session: FIX.4.4:SERVER->CLIENT
+20250116-22:37:37: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:57301
+20250116-22:37:37: Acceptor heartbeat set to 30 seconds
+20250116-22:37:37: Received logon
+20250116-22:37:37: Responding to Logon request
+20250116-22:45:19: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-22:45:19: Created session: FIX.4.4:SERVER->CLIENT
+20250116-22:47:16: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250116-22:47:16: Created session: FIX.4.4:SERVER->CLIENT
