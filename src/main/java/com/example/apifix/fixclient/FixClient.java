@@ -74,7 +74,7 @@ public class FixClient {
             startSession();
 
             // Aguarda até que a sessão fique ativa
-            if (!waitForSessionActive(5000)) { // Timeout de 5 segundos
+            if (!waitForSessionActive(50000)) { // Timeout de 5 segundos
                 System.out.println("Sessão FIX não ficou ativa dentro do tempo limite.");
                 return;
             }

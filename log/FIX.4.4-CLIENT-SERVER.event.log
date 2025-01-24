@@ -941,3 +941,70 @@
 20250116-22:37:36: MINA session created: local=/127.0.0.1:57301, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:5000
 20250116-22:37:37: Initiated logon request
 20250116-22:37:37: Received logon
+20250117-15:20:30: Session FIX.4.4:CLIENT->SERVER schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250117-15:20:30: Session state is not current; resetting FIX.4.4:CLIENT->SERVER
+20250117-15:20:30: Created session: FIX.4.4:CLIENT->SERVER
+20250117-15:20:30: Configured socket addresses for session: [localhost/127.0.0.1:5000]
+20250117-15:20:30: MINA session created: local=/127.0.0.1:65096, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:5000
+20250117-15:20:31: Initiated logon request
+20250117-15:20:31: Received logout request: MsgSeqNum too low, expecting 16 but received 1
+20250117-15:20:31: Sent logout response
+20250117-15:20:31: Disconnecting: Received logout request: MsgSeqNum too low, expecting 16 but received 1
+20250117-15:21:00: MINA session created: local=/127.0.0.1:65117, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:5000
+20250117-15:21:01: Initiated logon request
+20250117-15:21:01: Received logout request: MsgSeqNum too low, expecting 16 but received 3
+20250117-15:21:01: Sent logout response
+20250117-15:21:01: Disconnecting: Received logout request: MsgSeqNum too low, expecting 16 but received 3
+20250117-15:21:30: MINA session created: local=/127.0.0.1:65119, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:5000
+20250117-15:21:31: Initiated logon request
+20250117-15:21:31: Received logout request: MsgSeqNum too low, expecting 16 but received 5
+20250117-15:21:31: Sent logout response
+20250117-15:21:31: Disconnecting: Received logout request: MsgSeqNum too low, expecting 16 but received 5
+20250117-15:21:55: Session FIX.4.4:CLIENT->SERVER schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250117-15:21:55: Created session: FIX.4.4:CLIENT->SERVER
+20250117-15:21:55: Configured socket addresses for session: [localhost/127.0.0.1:5000]
+20250117-15:21:55: MINA session created: local=/127.0.0.1:65147, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:5000
+20250117-15:21:56: Initiated logon request
+20250117-15:21:56: Received logout request: MsgSeqNum too low, expecting 16 but received 7
+20250117-15:21:56: Sent logout response
+20250117-15:21:56: Disconnecting: Received logout request: MsgSeqNum too low, expecting 16 but received 7
+20250117-15:22:25: MINA session created: local=/127.0.0.1:65148, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:5000
+20250117-15:22:26: Initiated logon request
+20250117-15:22:26: Received logout request: MsgSeqNum too low, expecting 16 but received 9
+20250117-15:22:26: Sent logout response
+20250117-15:22:26: Disconnecting: Received logout request: MsgSeqNum too low, expecting 16 but received 9
+20250117-15:22:56: MINA session created: local=/127.0.0.1:65151, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:5000
+20250117-15:22:56: Initiated logon request
+20250117-15:22:56: Received logout request: MsgSeqNum too low, expecting 16 but received 11
+20250117-15:22:56: Sent logout response
+20250117-15:22:56: Disconnecting: Received logout request: MsgSeqNum too low, expecting 16 but received 11
+20250117-15:23:39: Session FIX.4.4:CLIENT->SERVER schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250117-15:23:39: Created session: FIX.4.4:CLIENT->SERVER
+20250117-15:23:39: Configured socket addresses for session: [localhost/127.0.0.1:5000]
+20250117-15:23:39: MINA session created: local=/127.0.0.1:65167, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:5000
+20250117-15:23:40: Initiated logon request
+20250117-15:23:40: Received logout request: MsgSeqNum too low, expecting 16 but received 13
+20250117-15:23:40: Sent logout response
+20250117-15:23:40: Disconnecting: Received logout request: MsgSeqNum too low, expecting 16 but received 13
+20250117-15:24:09: MINA session created: local=/127.0.0.1:65220, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:5000
+20250117-15:24:10: Initiated logon request
+20250117-15:24:10: Received logout request: MsgSeqNum too low, expecting 16 but received 15
+20250117-15:24:10: Sent logout response
+20250117-15:24:10: Disconnecting: Received logout request: MsgSeqNum too low, expecting 16 but received 15
+20250117-15:24:39: MINA session created: local=/127.0.0.1:65234, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:5000
+20250117-15:24:40: Initiated logon request
+20250117-15:24:40: Received logon
+20250117-15:24:40: MsgSeqNum too high, expecting 1 but received 35: 8=FIX.4.49=6835=A34=3549=SERVER52=20250117-15:24:40.04556=CLIENT98=0108=3010=204
+20250117-15:24:40: Enqueued at pos 35: 8=FIX.4.49=6835=A34=3549=SERVER52=20250117-15:24:40.04556=CLIENT98=0108=3010=204
+20250117-15:24:40: Sent ResendRequest FROM: 1 TO: infinity
+20250117-15:24:40: Enqueued at pos 36: 8=FIX.4.49=6635=234=3649=SERVER52=20250117-15:24:40.05056=CLIENT7=1616=010=080
+20250117-15:24:40: Received ResendRequest FROM: 16 TO: infinity
+20250117-15:24:40: Sent SequenceReset TO: 19
+20250117-15:24:40: Received SequenceReset FROM: 1 TO: 37
+20250124-01:59:25: Session FIX.4.4:CLIENT->SERVER schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250124-01:59:25: Session state is not current; resetting FIX.4.4:CLIENT->SERVER
+20250124-01:59:25: Created session: FIX.4.4:CLIENT->SERVER
+20250124-01:59:25: Configured socket addresses for session: [localhost/127.0.0.1:5000]
+20250124-01:59:25: MINA session created: local=/127.0.0.1:51162, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:5000
+20250124-01:59:26: Initiated logon request
+20250124-01:59:26: Received logon
